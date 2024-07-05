@@ -1,0 +1,1 @@
+Comandos básicos de impressão na tela, aprendendo a introduzir script ao documento html, aprendendo a fazer comentarios por linha e blocos de linhas.

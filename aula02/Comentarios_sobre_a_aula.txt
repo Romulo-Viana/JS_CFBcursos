@@ -1,0 +1,1 @@
+Nesta aula somos apresentados à importancia do use de boas práticas e da aplicação do comando "use scrict" ou (uso restrito) para força uma boa prática e legíbilidade por parte do desenvolvedor.

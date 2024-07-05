@@ -1,0 +1,1 @@
+Nesta aula vamos entender as diferentes formas de declara variáveis e seus escopos, entendo seu comportamento dentro do nosso código.
