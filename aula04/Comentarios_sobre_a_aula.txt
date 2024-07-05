@@ -1,1 +1,1 @@
-Nesta aula vimos operadores aritimeticos e suas ordens de precedencia. > Já estudado com o professor Gustavo Guanabara no cruso JS no modulo B aula 07 e 08.
+Nesta aula vimos operadores aritméticos e suas ordens de precedência. > Já estudado com o professor Gustavo Guanabara no curso JS no modulo B aula 07 e 08.

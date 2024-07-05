@@ -1,0 +1,1 @@
+//Operadores aritméticos e ordem de precedência. Já estudamos isso com professor Guanabara, CURSO JS, módulo B aulas 7 e 8.
