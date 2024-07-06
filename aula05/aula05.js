@@ -22,5 +22,6 @@ console.log(typeof(num2))
 let n1=[nome="Bruno"]
 let n2=n1
 
+
 console.log(n1 === n2)
-console.log(n1 == n2)
+console.log(n1 !== n2)
